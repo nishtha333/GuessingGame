@@ -24,3 +24,10 @@
       position: fixed;
       bottom: 0;
   }
+  .guess {
+    display: inline; 
+    border: solid 1px black;
+    border-radius: 10%;
+    font-size: 60px;
+    padding:0 25px;
+  }
