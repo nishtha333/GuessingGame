@@ -10,6 +10,13 @@
       width: 200px;
       height: 100px;
   }
+  #input-parent {
+      width: 160px;
+      margin: 0 auto 0 auto; 
+  }
+  #player-input {
+    margin: 0 auto 5px auto; 
+  }
   #footer {
       width: 100%;
       border-top: solid 2px black;
